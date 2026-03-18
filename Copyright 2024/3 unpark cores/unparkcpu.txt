@@ -1,5 +1,0 @@
-https://coderbag.com/assets/downloads/disable-cpu-core-parking/Unpark-CPU-App.zip
-
-if that doesn't work use park control
-
-https://bitsum.com/parkcontrol/

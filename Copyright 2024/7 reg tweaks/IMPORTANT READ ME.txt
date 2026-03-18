@@ -1,1 +1,0 @@
-Restore point doesn't revert reg tweaks, so write down the values you have before applying tweaks.
